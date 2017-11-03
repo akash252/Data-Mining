@@ -1,0 +1,2 @@
+(result33, cnt) = asso_rule.template3("1or2", "BODY", "ANY", ['G01_Up'], "HEAD", 2)
+(result34, cnt) = asso_rule.template3("1and2", "BODY", "ANY", ['G01_Up'], "HEAD", 2)

@@ -1,0 +1,2 @@
+(result14, cnt) = asso_rule.template1("BODY", "ANY", ['G01_Up'])
+(result15, cnt) = asso_rule.template1("BODY", "NONE", ['G01_Up'])

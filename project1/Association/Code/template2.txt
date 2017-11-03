@@ -1,0 +1,1 @@
+(result22, cnt) = asso_rule.template2("BODY", 2)
